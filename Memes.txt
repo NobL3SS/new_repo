@@ -6,6 +6,14 @@ Dobavil sebya i Timyra
 
 Day 2 08.01.2024
 
+<<<<<<< HEAD
 Legendary Pepe
 
 Day 3 11.01.2025
+=======
+Rabotal
+
+Day 3 15.01.2024
+
+
+>>>>>>> new_veto4ka
